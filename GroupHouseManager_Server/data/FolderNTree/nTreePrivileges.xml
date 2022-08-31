@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root id="2" type="Privileges">
+<lvlFour id="42" isAvalible="false" type="Andres">
+<lvlOne id="22" isAvalible="false" type="House">
+<lvlFive id="23" isAvalible="false" type="Internet"/>
+<lvlFive id="24" isAvalible="false" type="Light"/>
+<lvlFive id="25" isAvalible="false" type="Water"/>
+<lvlFive id="26" isAvalible="false" type="Gas"/>
+</lvlOne>
+<lvlOne id="27" isAvalible="false" type="House">
+<lvlFive id="28" isAvalible="false" type="Internet"/>
+<lvlFive id="29" isAvalible="false" type="Light"/>
+<lvlFive id="30" isAvalible="false" type="Water"/>
+<lvlFive id="31" isAvalible="false" type="Gas"/>
+</lvlOne>
+<lvlOne id="32" isAvalible="false" type="House">
+<lvlFive id="33" isAvalible="false" type="Internet"/>
+<lvlFive id="34" isAvalible="false" type="Light"/>
+<lvlFive id="35" isAvalible="false" type="Water"/>
+<lvlFive id="36" isAvalible="false" type="Gas"/>
+</lvlOne>
+</lvlFour>
+<lvlFour id="43" isAvalible="false" type="Alex">
+<lvlOne id="37" isAvalible="false" type="House">
+<lvlFive id="38" isAvalible="false" type="Internet"/>
+<lvlFive id="39" isAvalible="false" type="Light"/>
+<lvlFive id="40" isAvalible="false" type="Water"/>
+<lvlFive id="41" isAvalible="false" type="Gas"/>
+</lvlOne>
+</lvlFour>
+<lvlFour id="44" isAvalible="false" type="Angie">
+<lvlTwo id="10" isAvalible="false" type="Apartment">
+<lvlFive id="11" isAvalible="false" type="Internet"/>
+<lvlFive id="12" isAvalible="false" type="Light"/>
+<lvlFive id="13" isAvalible="false" type="Water"/>
+<lvlFive id="14" isAvalible="false" type="Gas"/>
+</lvlTwo>
+<lvlTwo id="15" isAvalible="false" type="Apartment">
+<lvlFive id="16" isAvalible="false" type="Internet"/>
+<lvlFive id="17" isAvalible="false" type="Light"/>
+<lvlFive id="18" isAvalible="false" type="Water"/>
+<lvlFive id="19" isAvalible="false" type="Gas"/>
+</lvlTwo>
+</lvlFour>
+</root>

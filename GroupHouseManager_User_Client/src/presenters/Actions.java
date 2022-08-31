@@ -1,0 +1,7 @@
+package presenters;
+
+public enum Actions {
+	VALIDATE_LOGIN_USER, GENERATE_REPORT, REMOVE, CANCEL,
+	GAS, INTERNET, WATER, LIGHT, EXIT
+
+}
